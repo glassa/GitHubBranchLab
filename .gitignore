@@ -42,6 +42,12 @@ captures/
 
 # External native build folder generated in Android Studio 2.2 and later
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+.externalNativeBuild<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
 .externalNativeBuild
 =======
 .externalNativeBuild
