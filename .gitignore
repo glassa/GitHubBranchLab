@@ -41,7 +41,10 @@ captures/
 *.jks
 
 # External native build folder generated in Android Studio 2.2 and later
+<<<<<<< HEAD
+=======
 .externalNativeBuild<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/master
 .externalNativeBuild
 =======
 .externalNativeBuild
