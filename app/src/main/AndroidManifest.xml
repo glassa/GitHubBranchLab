@@ -15,14 +15,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-<<<<<<< HEAD
         <activity
             android:name=".YunhangActivity"
             android:label="@string/title_activity_yunhang"
             android:theme="@style/AppTheme.NoActionBar"></activity>
-=======
+
         <activity android:name=".TonysActivity"></activity>
->>>>>>> refs/remotes/origin/master
+
     </application>
 
 </manifest>
